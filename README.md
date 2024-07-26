@@ -1,4 +1,4 @@
-# bootcamp-1-project-1a
+# Bootcamp 1.0 Project 1A
 
 This is the first project of the Bootcamp. The resource material for this project is gotten from [Free CSS](https://www.free-css.com/)
 
